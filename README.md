@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 My name is 
 
 <!--
 **ViacheslavKriatchenko/ViacheslavKriatchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-About me
+## I'm beginer QA-ingeneer
+### I am currently working on improving my skills. 
 
 Languages and Tools
 
