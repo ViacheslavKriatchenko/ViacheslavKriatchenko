@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-## I'm beginer QA-ingeneer
+## I'm a beginer QA-ingeneer
 ### I am currently working on improving my skills. 
 
 Languages and Tools
