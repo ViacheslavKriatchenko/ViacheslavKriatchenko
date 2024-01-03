@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
 ## I'm a beginer QA-ingeneer
-### I am currently working on improving my skills. 
+### I am currently working on improving my skills.
+## My CV
+## Portfolio
 
 ### Languages and Tools
 
