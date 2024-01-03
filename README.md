@@ -18,10 +18,19 @@ Here are some ideas to get you started:
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
 ## I'm a beginer QA-ingeneer
-### I am currently working on improving my skills.
+I am currently working on improving my skills.
 ## My CV
-## Portfolio
-
+soon
+## Portfolio (in progress)
+* Тестовая документация
+    + [Чек-листы](https://)
+    + [Тест-кейсы](https://)
+    + [Mind maps](https://)
+    + [Баг-репорты](https://)
+* Коллекция в Postman
+    + [Название проекта](https://)
+* SQL запросы
+    + [Название проекта](https://)
 ### Languages and Tools
 
 ![Static Badge](https://img.shields.io/badge/postgre-SQL-DarkRed?style=plastic&logo=postgresql&logoColor=40E0D0&color=black)
