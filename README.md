@@ -25,7 +25,7 @@ soon
 * Тестовая документация
     + [Чек-листы](https://)
     + [Тест-кейсы](https://)
-    + [Mind maps](https://)
+    + [Mind maps](https://miro.com/app/board/uXjVNXzNHws=/)
     + [Баг-репорты](https://)
 * Коллекция в Postman
     + [Название проекта](https://)
