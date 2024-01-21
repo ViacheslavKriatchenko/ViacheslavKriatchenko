@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I'm a beginer QA-ingeneer
 I am currently working on improving my skills.
 ## My CV
-soon
+[Simple-CV](https://viacheslavkriatchenko.github.io/Simple-CV/)
 ## Portfolio (in progress)
 * Тестовая документация
     + [Чек-листы](https://)
