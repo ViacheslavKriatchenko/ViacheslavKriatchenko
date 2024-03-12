@@ -48,6 +48,7 @@ I am currently working on improving my skills.
 ![Static Badge](https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=3776AB&link=https%3A%2F%2Fstepik.org%2Flesson%2F904834%2Fstep%2F2%3Funit%3D910296)
 ![Static Badge](https://img.shields.io/badge/Docker-white?style=plastic&logo=docker&logoColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/JavaScript-purple?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/JMeter-%2307500B?style=plastic&logo=apachejmeter&logoColor=%23D22128)
 
 ### Follow me
 
