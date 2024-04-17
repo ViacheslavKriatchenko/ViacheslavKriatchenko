@@ -54,4 +54,4 @@ I am currently working on improving my skills.
 
 [![Static Badge](https://img.shields.io/badge/-Instagram-Silver?style=plastic&logo=instagram&logoColor=red&color=black&)](https://www.Instagram.com/slava.v.k)
 [![Static Badge](https://img.shields.io/badge/-Telegram-Silver?style=plastic&logo=telegram&logoColor=blue&color=black&)](https://t.me/Slava_K_V)
-[![Static Badge](https://img.shields.io/badge/-Linkedin-Silver?style=plastic&logo=linkedin&logoColor=blue&color=black&)](https://www.linkedin.com/in/slava-kryatchenko-146790238/)
+[![Static Badge](https://img.shields.io/badge/-Linkedin-Silver?style=plastic&logo=linkedin&logoColor=blue&color=black&)](https://www.linkedin.com/in/viacheslav-kriatchenko/)
