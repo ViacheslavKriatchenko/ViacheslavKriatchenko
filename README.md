@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-## I'm a beginer QA-ingeneer
+## I'm a beginer QA-Engineer
 I am currently working on improving my skills.
 ## My CV
 [Simple-CV](https://viacheslavkriatchenko.github.io/Simple-CV/)
@@ -28,7 +28,7 @@ I am currently working on improving my skills.
     + [Mind maps](https://miro.com/app/board/uXjVNXzNHws=/)
     + [Баг-репорты](https://)
 * Коллекция в Postman
-    + [Название проекта](https://)
+    + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
 * SQL запросы
     + [Название проекта](https://)
       
