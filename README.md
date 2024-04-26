@@ -31,7 +31,7 @@ I am currently working on improving my skills.
     + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
     + [30-days-of-postman-Challenge](https://postman.com/slavencia/workspace/slavencia-30-days-of-postman)
 * SQL запросы
-    + [Название проекта](https://)
+    + [Interactive SQL Simulator certificate](https://stepik.org/cert/2095550?lang=en)
       
 ### Languages and Tools
 
