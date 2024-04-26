@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-## I'm a beginer QA-Engineer
-I am currently working on improving my skills.
+## I'm a beginner QA-Engineer
+I am currently working on improving my skills and preparing for my journey into the world of testing. I am currently learning the basics of automation in Python
 ## My CV
 [Simple-CV](https://viacheslavkriatchenko.github.io/Simple-CV/)
 ## Portfolio (in progress)
