@@ -29,7 +29,7 @@ I am currently working on improving my skills.
     + [Баг-репорты](https://)
 * Коллекция в Postman
     + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
-    + [30-days-of-postman]([https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing](https://postman.com/slavencia/workspace/slavencia-30-days-of-postman))
+    + [30-days-of-postman-Challenge](https://postman.com/slavencia/workspace/slavencia-30-days-of-postman)
 * SQL запросы
     + [Название проекта](https://)
       
