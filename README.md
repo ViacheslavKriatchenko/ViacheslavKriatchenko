@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am currently working on improving my skills and preparing for my journey into the world of testing. I am currently learning the basics of automation in Python
 ## My CV
 [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
-[CV_pdf]()
+[CV_pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
 ## Portfolio (in progress)
 * Тестовая документация
     + [Чек-листы](https://)
