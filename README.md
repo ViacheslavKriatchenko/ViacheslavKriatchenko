@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ## I'm a beginner QA-Engineer
 I am currently working on improving my skills and preparing for my journey into the world of testing. I am currently learning the basics of automation in Python
 ## My CV
-[Simple-CV](https://viacheslavkriatchenko.github.io/Simple-CV/)
+[Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)
+[CV_pdf]()
 ## Portfolio (in progress)
 * Тестовая документация
     + [Чек-листы](https://)
