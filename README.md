@@ -24,9 +24,10 @@ I am currently working on improving my skills and preparing for my journey into 
 ## Portfolio (in progress)
 * Тестовая документация
     + [Чек-листы](https://)
-    + [Тест-кейсы](https://)
+    + [Заготовка PICT](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
+    + [Тест-кейсы Пример](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
     + [Mind maps](https://miro.com/app/board/uXjVNXzNHws=/)
-    + [Баг-репорты](https://)
+    + [Баг-репорт Пример](https://drive.google.com/file/d/1lPGAplIehd71-fgC0p0hUslsYjRbApiz/view?usp=sharing)
     + [Тест-план](https://drive.google.com/file/d/1B0y96dEFgi_32B1ATaDftXW46Jyt_o96/view?usp=sharing)
 * Коллекция в Postman
     + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
