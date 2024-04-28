@@ -27,11 +27,13 @@ I am currently working on improving my skills and preparing for my journey into 
     + [Тест-кейсы](https://)
     + [Mind maps](https://miro.com/app/board/uXjVNXzNHws=/)
     + [Баг-репорты](https://)
+    + [Тест-план](https://drive.google.com/file/d/1B0y96dEFgi_32B1ATaDftXW46Jyt_o96/view?usp=sharing)
 * Коллекция в Postman
     + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
     + [30-days-of-postman-Challenge](https://postman.com/slavencia/workspace/slavencia-30-days-of-postman)
 * SQL запросы
     + [Interactive SQL Simulator certificate](https://stepik.org/cert/2095550?lang=en)
+    + [Примеры запросов](https://docs.google.com/document/d/1W7gvdSOA_jJ6jJuYZFf7NeX8AmWQWxaZ7mY0Jv4BRCY/edit?usp=sharing)
       
 ### Languages and Tools
 
