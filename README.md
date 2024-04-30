@@ -23,19 +23,19 @@ I am currently working on improving my skills and preparing for my journey into 
 [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 [CV_pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
 ## Portfolio (in progress)
-* Тестовая документация
-    + [Чек-листы](https://)
-    + [Заготовка PICT](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
-    + [Тест-кейсы Пример](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
-    + [Mind maps](https://miro.com/app/board/uXjVNXzNHws=/)
-    + [Баг-репорт Пример](https://drive.google.com/file/d/1lPGAplIehd71-fgC0p0hUslsYjRbApiz/view?usp=sharing)
-    + [Тест-план](https://drive.google.com/file/d/1B0y96dEFgi_32B1ATaDftXW46Jyt_o96/view?usp=sharing)
-* Коллекция в Postman
+* Test documentation
+    + [Check-list](https://)
+    + [PICT_example](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
+    + [Test-case_example](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
+    + [Mind_maps](https://miro.com/app/board/uXjVNXzNHws=/)
+    + [Bag-report_example](https://drive.google.com/file/d/1lPGAplIehd71-fgC0p0hUslsYjRbApiz/view?usp=sharing)
+    + [Test-plan__example](https://drive.google.com/file/d/1B0y96dEFgi_32B1ATaDftXW46Jyt_o96/view?usp=sharing)
+* Collection at Postman
     + [My Workspace](https://drive.google.com/drive/folders/1FUzptA_5yaUbE3DKDhZ6pqvLdvzfgQcD?usp=sharing)
     + [30-days-of-postman-Challenge](https://postman.com/slavencia/workspace/slavencia-30-days-of-postman)
-* SQL запросы
+* SQL queries
     + [Interactive SQL Simulator certificate](https://stepik.org/cert/2095550?lang=en)
-    + [Примеры запросов](https://docs.google.com/document/d/1W7gvdSOA_jJ6jJuYZFf7NeX8AmWQWxaZ7mY0Jv4BRCY/edit?usp=sharing)
+    + [Sample queries](https://docs.google.com/document/d/1W7gvdSOA_jJ6jJuYZFf7NeX8AmWQWxaZ7mY0Jv4BRCY/edit?usp=sharing)
       
 ### Languages and Tools
 
