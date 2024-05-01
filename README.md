@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
 ## I'm a beginner QA-Engineer
-I am currently working on improving my skills and preparing for my journey into the world of testing. I am currently learning the basics of automation in Python
+Я ручной тестировщик, окончил курс QA-Engineer и в настоящее время обучаюсь базовой автоматизации тестирования на Python. Активно посещаю онлайн-курсы (Ссылка Stepik), смотрю обучающие ролики на youtube.
+Ищу команду, с которой мы создадим качественные продукты.
+На последнем рабочем месте увлекся тестированием, что в последствие привело к смене деятельности. Я создавал регламенты автоматических процессов, активно участвовал в обновлении и тестировании программ, взаимодействовал с разработчиками на постоянной основе.
+
 ## My CV
 [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 [CV_pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
