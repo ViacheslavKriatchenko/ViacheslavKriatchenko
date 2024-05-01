@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
 ## I'm a beginner QA-Engineer
-Я ручной тестировщик, окончил курс QA-Engineer и в настоящее время обучаюсь базовой автоматизации тестирования на Python. Активно посещаю онлайн-курсы (Ссылка Stepik), смотрю обучающие ролики на youtube.
+Я ручной тестировщик, окончил курс QA-Engineer и в настоящее время обучаюсь базовой автоматизации тестирования на Python. Активно посещаю онлайн-курсы [Ссылка Stepik](https://stepik.org/users/493984512/profile), смотрю обучающие ролики на youtube.
+
 Ищу команду, с которой мы создадим качественные продукты.
+
 На последнем рабочем месте увлекся тестированием, что в последствие привело к смене деятельности. Я создавал регламенты автоматических процессов, активно участвовал в обновлении и тестировании программ, взаимодействовал с разработчиками на постоянной основе.
 
 ## My CV
