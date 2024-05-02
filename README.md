@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     + [Check-list](https://)
     + [PICT_example](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
     + [Test-case_example](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
-    + [Mind_maps](https://miro.com/app/board/uXjVNXzNHws=/), [Прошлый опыт](https://drive.google.com/drive/folders/1TD5cVYYfoIwy-urUA2TQWpWdLcRZcw5D?usp=sharing)
+    + [Mind_maps](https://miro.com/app/board/uXjVNXzNHws=/)   //   [Прошлый опыт](https://drive.google.com/drive/folders/1TD5cVYYfoIwy-urUA2TQWpWdLcRZcw5D?usp=sharing)
     + [Bag-report_example](https://drive.google.com/file/d/1lPGAplIehd71-fgC0p0hUslsYjRbApiz/view?usp=sharing)
     + [Test-plan__example](https://drive.google.com/file/d/1B0y96dEFgi_32B1ATaDftXW46Jyt_o96/view?usp=sharing)
 * Collection at Postman
