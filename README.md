@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ## My CV
 
-[Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
++ [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
-[CV_pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
++ [CV_pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
 
-[HH.pdf]()
++ [HH.pdf]()
 
 ## Portfolio (in progress)
 
