@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 + [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
-+ [CV.pdf](https://drive.google.com/file/d/14DZoLMTYYWy4rUVJtwrLvj3HWQgWp2Y_/view?usp=sharing)
++ [CV.pdf](https://drive.google.com/file/d/1IeSrtZw9HOV6BKxaP6JCUnjx2pUpbPzB/view?usp=sharing)
 
 + [HH.pdf]()
 
