@@ -19,19 +19,22 @@ Here are some ideas to get you started:
 
 ## I'm a beginner QA-Engineer
 
-Начинающий специалист по контролю качества ПО, с опытом тестирования 1С. Бывший аналитик и специалист по закупкам и логистике с более чем 10-летним стажем. Оканчиваю курс QA-Engineer и в настоящее время обучаюсь базовой автоматизации на Python. Активно посещаю онлайн-курсы [Ссылка Stepik](https://stepik.org/users/493984512/profile), смотрю обучающие ролики на youtube.
-
-На последнем рабочем месте увлекся тестированием, что впоследствии привело к смене деятельности. Стремлюсь стать высококлассным специалистом и реализовать свой потенциал в тестирование.
-
-Нахожусь в поиске команды с которой найдем понимание и будем работать над разработкой качественных продуктов.
+Специалист по контролю качества ПО, с опытом тестирования 1С. Бывший аналитик и
+специалист по закупкам и логистике с более чем 10-летним стажем. Развиваюсь как
+QA-Engineer и в настоящее время обучаюсь базовой автоматизации на Python. Активно
+посещаю [онлайн-курсы](https://stepik.org/users/493984512/profile), смотрю обучающие
+ролики на Youtube. Стремлюсь стать высококлассным специалистом и реализовать свой
+потенциал в тестировании. Нахожусь в поиске команды, с которой будем создавать и
+запускать успешные продукты, соответствующие потребностям и ожиданиям заказчиков и
+пользователей.
 
 ## My CV
 
 + [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
-+ [CV.pdf](https://drive.google.com/file/d/1IeSrtZw9HOV6BKxaP6JCUnjx2pUpbPzB/view?usp=sharing)
++ [CV.pdf](https://drive.google.com/file/d/1z6jPZYHL8Eq96DtoAktkiKlNJn787FMw/view?usp=drive_link)
 
-+ [HH.pdf](https://drive.google.com/file/d/1Y6JHX-8XurQZe_qDZE8FKbKVD1ctDtXs/view?usp=sharing)
++ [HH.pdf](https://drive.google.com/file/d/1D67j3DNTdqUI_KUuxLNiAm7cESyUp2Ct/view?usp=drive_link)
 
 ## Portfolio (in progress)
 
