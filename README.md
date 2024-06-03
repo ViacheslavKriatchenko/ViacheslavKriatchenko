@@ -39,7 +39,7 @@ QA-Engineer и в настоящее время обучаюсь базовой 
 ## Portfolio (in progress)
 
 * Test documentation
-    + [Check-list](https://)
+    + [Check-list_example](https://docs.google.com/spreadsheets/d/1diDXWykj9m1mO8uvwoxdW6Uu9J_cRLI9/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true) / [Check-list_example](https://docs.google.com/spreadsheets/d/1j8trGPYCrbBFvSXtUd-ncxQ1fIMZatXN/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
     + [PICT_example](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
     + [Test-case_example](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
     + [Mind_maps](https://miro.com/app/board/uXjVNXzNHws=/)   |||   [Прошлый опыт](https://drive.google.com/drive/folders/1TD5cVYYfoIwy-urUA2TQWpWdLcRZcw5D?usp=sharing)
