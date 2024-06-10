@@ -41,6 +41,7 @@ QA-Engineer и в настоящее время обучаюсь базовой 
 * Automation
     + [Обучение/коды (обновляется)](https://drive.google.com/drive/folders/1BzrGApOlSxOPXu41V1UMNqYSKcuj3Rx8?usp=sharing)
 * Test documentation
+    + [Notion_example](https://super-creek-a3b.notion.site/c33018a5808347ad814e7f5c147dddf8)
     + [Check-list_example](https://docs.google.com/spreadsheets/d/1diDXWykj9m1mO8uvwoxdW6Uu9J_cRLI9/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true) / [Check-list_example](https://docs.google.com/spreadsheets/d/1j8trGPYCrbBFvSXtUd-ncxQ1fIMZatXN/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
     + [PICT_example](https://docs.google.com/document/d/1DXtDxwD38Q8FJ_kxqnp5kI8Ge11LK14O/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
     + [Test-case_example](https://drive.google.com/file/d/1X7val6cYm1XuF5-0VMQYKZOTBcWyaRK0/view?usp=sharing)
@@ -61,6 +62,7 @@ QA-Engineer и в настоящее время обучаюсь базовой 
 ![Static Badge](https://img.shields.io/badge/Miro-Lime?style=plastic&logo=miro)
 ![Static Badge](https://img.shields.io/badge/QASE-black?style=plastic&logo=qase&logoColor=%234F46DC&)
 ![Static Badge](https://img.shields.io/badge/Selenium-black?style=plastic&logo=Selenium&logoColor=white&labelColor=%2343B02A)
+![Static Badge](https://img.shields.io/badge/Py-Test-_?style=plastic&logo=pytest&logoColor=%230A9EDC&labelColor=%234B0082&color=%2300FFFF)
 ![Static Badge](https://img.shields.io/badge/JIRA-black?style=plastic&logo=jirasoftware&logoColor=%230052CC&)
 ![Static Badge](https://img.shields.io/badge/Confluence-white?style=plastic&logo=confluence&logoColor=%23172B4D)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=black)
