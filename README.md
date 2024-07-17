@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## Portfolio (in progress)
 
 * Automation
-    + [Обучение/коды (обновляется)](https://drive.google.com/drive/folders/1BzrGApOlSxOPXu41V1UMNqYSKcuj3Rx8?usp=sharing)
+    + [Check repositories (обновляется)]
 * Test documentation
     + [Notion_example](https://super-creek-a3b.notion.site/c33018a5808347ad814e7f5c147dddf8)
     + [Check-list_example](https://docs.google.com/spreadsheets/d/1diDXWykj9m1mO8uvwoxdW6Uu9J_cRLI9/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true) / [Check-list_example](https://docs.google.com/spreadsheets/d/1j8trGPYCrbBFvSXtUd-ncxQ1fIMZatXN/edit?usp=sharing&ouid=104305536812303428297&rtpof=true&sd=true)
