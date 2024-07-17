@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-## I'm a beginner QA-Engineer
+## I'm a beginner QA Engineer
 
-Специалист по контролю качества ПО, с опытом тестирования 1С. Бывший аналитик и
-специалист по закупкам и логистике с более чем 10-летним стажем. Развиваюсь как
-QA-Engineer и в настоящее время обучаюсь базовой автоматизации на Python. Активно
+  Специалист по контролю качества ПО, с опытом тестирования 1С около года,
+с более чем 10-летним стажем в роли аналитика и логистике. В настоящее время обучаюсь автоматизации тестирования на Python.
+В перспективе хочу закрепить навыки, освоить нагрузочное тестирование и стать Full Stack QA. Активно
 посещаю [онлайн-курсы](https://stepik.org/users/493984512/profile), смотрю обучающие
-ролики на Youtube. Стремлюсь стать высококлассным специалистом и реализовать свой
-потенциал в тестировании. Нахожусь в поиске команды, с которой будем создавать и
-запускать успешные продукты, соответствующие потребностям и ожиданиям заказчиков и
-пользователей.
+ролики на Youtube.
+  Нахожусь в поиске долгосрочного сотрудничества с командой, с которой будем создавать и запускать успешные продукты,
+соответствующие потребностям и ожиданиям заказчиков и пользователей.
 
 ## My CV
 
 + [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
-+ [CV.pdf](https://drive.google.com/file/d/1z6jPZYHL8Eq96DtoAktkiKlNJn787FMw/view?usp=drive_link)
++ [Вариант_1_CV.pdf](https://drive.google.com/file/d/1z6jPZYHL8Eq96DtoAktkiKlNJn787FMw/view?usp=drive_link)
++ [Вариант_2_CV.pdf](https://drive.google.com/file/d/1bn3k8NOSDh6Zh8GdDu4oDZuO6Cki_1NF/view?usp=drive_link)
 
 + [HH.pdf](https://drive.google.com/file/d/1D67j3DNTdqUI_KUuxLNiAm7cESyUp2Ct/view?usp=drive_link)
 
