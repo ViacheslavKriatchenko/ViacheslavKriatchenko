@@ -17,15 +17,10 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)](https://github.com/ViacheslavKriatchenko/ViacheslavKriatchenko/blob/main/assets/name.png)
 
-## I'm a beginner QA Engineer
+## QA Engineer
 
-  Специалист по контролю качества ПО, с опытом тестирования 1С около года,
-с более чем 10-летним стажем в роли аналитика и логистике. В настоящее время обучаюсь автоматизации тестирования на Python.
-В перспективе хочу закрепить навыки, освоить нагрузочное тестирование и стать Full Stack QA. Активно
-посещаю [онлайн-курсы](https://stepik.org/users/493984512/profile), смотрю обучающие
-ролики на Youtube.
-  Нахожусь в поиске долгосрочного сотрудничества с командой, с которой будем создавать и запускать успешные продукты,
-соответствующие потребностям и ожиданиям заказчиков и пользователей.
+  Специалист по контролю качества ПО, погруженный в автоматизацию тестирования на Python
+и пытающийся вырасти в Full Stack QA.
 
 ## My CV
 
