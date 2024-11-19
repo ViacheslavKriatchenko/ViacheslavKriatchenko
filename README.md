@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 + [Simple-CV_Web](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
 + [Вариант_1_CV.pdf](https://drive.google.com/file/d/1n9_mzeKscU9qwJNQzzy3COb3yDWokvE4/view?usp=drive_link)
-+ [Вариант_2_CV.pdf](https://drive.google.com/file/d/1z6jPZYHL8Eq96DtoAktkiKlNJn787FMw/view?usp=drive_link)
++ [Вариант_2_CV.pdf](https://drive.google.com/file/d/1pXdHFrVXDlT2FASTax6EONw-kx3CKU_S/view?usp=drive_link)
 
-+ [HH.pdf](https://drive.google.com/file/d/1D67j3DNTdqUI_KUuxLNiAm7cESyUp2Ct/view?usp=drive_link)
++ [HH.pdf](https://drive.google.com/file/d/1isWR-TdzePpwr0rGtWVyyzjfdVyamPmZ/view?usp=drive_link)
 
 ## Portfolio (in progress)
 
