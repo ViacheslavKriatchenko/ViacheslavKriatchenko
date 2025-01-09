@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## My CV
 
-+ [CV_Web_CV_Not_updated](https://viacheslavkriatchenko.github.io/Simple-CV/)  
++ [Web_CV_Not_updated](https://viacheslavkriatchenko.github.io/Simple-CV/)  
 
 + [v1_Simple_CV.pdf](https://drive.google.com/file/d/1n9_mzeKscU9qwJNQzzy3COb3yDWokvE4/view?usp=drive_link)
 + [v2_Creative_CV.pdf](https://drive.google.com/file/d/1pXdHFrVXDlT2FASTax6EONw-kx3CKU_S/view?usp=drive_link)
